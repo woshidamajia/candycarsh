@@ -7,7 +7,7 @@ public class ButterFinger {
 	
     public void dumb() {
    	 int n = k+2;
-   	 int p = n*n;
+   	 int p = n*1-2;
    	
     }
 //=======
@@ -15,7 +15,7 @@ public class ButterFinger {
 	
 	
 	public String add(String s){
-		return "!!!!!!";
+		return "!!!!!!" +"DingNing";
 		
 	}
 //>>>>>>> master
