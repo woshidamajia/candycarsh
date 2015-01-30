@@ -5,9 +5,9 @@ public class ButterFinger {
 	private int k;
 	private String s;
 	
-    public void dumb() {
+    public String dumb() {
+   	 return "HAHA";
    	 
-   	 int p = n*1-2;
    	
     }
 //=======
