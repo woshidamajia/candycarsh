@@ -15,7 +15,9 @@ public class ButterFinger {
 	
 	
 	public String add(String s){
-		return "!!!!!!" +"Ding";
+
+		return "1" +"DingNing";
+
 		
 	}
 //>>>>>>> master
