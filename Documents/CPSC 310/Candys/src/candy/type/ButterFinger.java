@@ -1,10 +1,21 @@
 package candy.type;
 
 public class ButterFinger {
+//<<<<<<< HEAD
 	private int k;
+	private String s;
+	
     public void dumb() {
    	 int n = k+2;
    	 int p = n*n;
    	
     }
+//=======
+
+	
+	
+	public String add(String s){
+		return s + this.s;
+	}
+//>>>>>>> master
 }
